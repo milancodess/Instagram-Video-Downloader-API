@@ -1,0 +1,35 @@
+{
+  "name": "snapsave-downloader",
+  "version": "1.0.0",
+  "description": "Explore snapsave-downloader, a versatile JavaScript package designed for effortless video downloads from Instagram and Facebook. Elevate your project by seamlessly integrating this lightweight tool, enabling users to save their favorite videos for offline enjoyment.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milanproo/snapsave-downloader.git"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "photo",
+    "video",
+    "url",
+    "picture",
+    "image",
+    "download"
+  ],
+  "author": "Milan Bhandari",
+  "license": "Apache License 3.0",
+  "bugs": {
+    "url": "https://github.com/milanproo/snapsave-downloader/issues"
+  },
+  "homepage": "https://github.com/milanproo/snapsave-downloader#readme",
+  "dependencies": {
+    "got": "^11.8.3",
+    "cheerio": "~1.0.0-rc.5"
+  }
+}
