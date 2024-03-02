@@ -7,8 +7,6 @@
   },
   "keywords": [],
   "author": "Milan Bhandari",
-  "facebook": "https://www.facebook.com/milanxd.bh",
-  "github": "https://www.github.com/milancodess",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
