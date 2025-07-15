@@ -1,5 +1,5 @@
 {
-  "name": "Instagram Video Downloader API",
+  "name": "instagram-video-downloader-api",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
